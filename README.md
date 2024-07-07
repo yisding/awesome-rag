@@ -21,6 +21,7 @@ Microsoft project with a lot of traction in the C# community. Officially support
 
 #### Canopy (Pinecone)
 #### Verba (Weaviate)
+#### Towhee (Zilliz)
 #### RagFlow (Infiniflow)
 
 ### Other Frameworks
