@@ -19,13 +19,14 @@ Microsoft project with a lot of traction in the C# community. Officially support
 
 ### VectorDB Sponsored Frameworks
 
-#### Pinecone
+#### Canopy (Pinecone)
 #### Verba (Weaviate)
 #### RagFlow (Infiniflow)
 
 ### Other Frameworks
 
 #### GraphRAG
+#### Cognita
 #### Promptable.ai (Unmaintained)
 #### Axflow (Unmaintained)
 
@@ -50,7 +51,7 @@ Microsoft project with a lot of traction in the C# community. Officially support
 
 ### Existing Databases with Vector Search
 
-#### PGVector
+#### PgVector
 ##### Supabase
 ##### Timescale
 #### DataStax (Cassandra)
