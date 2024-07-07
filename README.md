@@ -79,3 +79,16 @@ Microsoft project with a lot of traction in the C# community. Officially support
 #### Cohere
 #### SBERT (Sentence Transformers)
 #### Jina.ai
+
+### Observability
+
+#### Arize
+#### Langsmith
+#### Truera
+
+### Agent Focused Frameworks
+
+#### CrewAI
+#### Autogen
+#### Langgraph
+#### Axiomic
