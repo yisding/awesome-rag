@@ -44,6 +44,7 @@ Microsoft project with a lot of traction in the C# community. Officially support
 
 #### Chroma
 #### Pinecone
+#### Qdrant
 #### Weaviate
 #### Milvus
 
@@ -71,3 +72,10 @@ Microsoft project with a lot of traction in the C# community. Officially support
 #### Unstructured.io
 #### Firecrawl
 #### Multion Retrieve
+
+### Embeddings
+
+#### OpenAI
+#### Cohere
+#### SBERT (Sentence Transformers)
+#### Jina.ai
