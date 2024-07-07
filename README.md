@@ -85,6 +85,7 @@ Microsoft project with a lot of traction in the C# community. Officially support
 
 ### Arize
 ### Langsmith
+### Langfuse
 ### Truera
 
 ## Agent Focused Frameworks
