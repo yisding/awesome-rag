@@ -66,29 +66,30 @@ Microsoft project with a lot of traction in the C# community. Officially support
 #### Neo4J
 #### Nebula
 
-### Document Ingestion
+## Document Ingestion
 
-#### LlamaParse
-#### Unstructured.io
-#### Firecrawl
-#### Multion Retrieve
+### LlamaParse
+### Unstructured.io
+### Firecrawl
+### Multion Retrieve
+### RagFlow
 
-### Embeddings
+## Embeddings
 
-#### OpenAI
-#### Cohere
-#### SBERT (Sentence Transformers)
-#### Jina.ai
+### OpenAI
+### Cohere
+### SBERT (Sentence Transformers)
+### Jina.ai
 
-### Observability
+## Observability
 
-#### Arize
-#### Langsmith
-#### Truera
+### Arize
+### Langsmith
+### Truera
 
-### Agent Focused Frameworks
+## Agent Focused Frameworks
 
-#### CrewAI
-#### Autogen
-#### Langgraph
-#### Axiomic
+### CrewAI
+### Autogen
+### Langgraph
+### Axiomic
