@@ -13,7 +13,7 @@ LLM framework with the largest community. Official packages include Python and J
 #### Haystack
 Production focused ML framework that pivoted towards LLMs. Well designed and thought out.
 #### DSpy
-Framework focused on prompt optimization and better 
+Framework focused on prompt optimization and better developer ergonomics.
 
 ### VectorDB Sponsored Frameworks
 
@@ -25,7 +25,7 @@ Framework focused on prompt optimization and better
 
 ### OpenAI Assistants
 ### Vectara
-### Contextual.AI
+### Contextual.ai
 
 ## Vector Databases
 
@@ -47,7 +47,15 @@ Framework focused on prompt optimization and better
 ### Search Engines with Vector Search
 #### Elastic
 #### Vespa
+#### Typesense
 
 ### Graph Databases
 #### Neo4J
 #### Nebula
+
+### Document Ingestion
+
+#### LlamaParse
+#### Unstructured.io
+#### Firecrawl
+#### Multion Retrieve
