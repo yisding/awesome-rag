@@ -23,6 +23,12 @@ Microsoft project with a lot of traction in the C# community. Officially support
 #### Verba (Weaviate)
 #### RagFlow (Infiniflow)
 
+### Other Frameworks
+
+#### GraphRAG
+#### Promptable.ai (Unmaintained)
+#### Axflow (Unmaintained)
+
 ## Closed Source Tools
 
 ### OpenAI Assistants
