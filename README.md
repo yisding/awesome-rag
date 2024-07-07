@@ -32,6 +32,9 @@ Microsoft project with a lot of traction in the C# community. Officially support
 ## Closed Source Tools
 
 ### OpenAI Assistants
+### Azure Cognitive Search
+### AWS Q
+### Google Vertex AI Search
 ### Vectara
 ### Contextual.ai
 
