@@ -41,6 +41,7 @@ Framework focused on prompt optimization and better developer ergonomics.
 #### PGVector
 ##### Supabase
 ##### Timescale
+#### DataStax (Cassandra)
 #### MongoDB
 #### Redis
 
