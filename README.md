@@ -28,6 +28,7 @@ Microsoft project with a lot of traction in the C# community. Officially support
 
 #### GraphRAG
 #### Cognita
+#### Pathway
 #### Promptable.ai (Unmaintained)
 #### Axflow (Unmaintained)
 
