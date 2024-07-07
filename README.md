@@ -4,16 +4,18 @@ Yi's list of RAG tools I find useful or interesting with some notes. Personal op
 
 ## Open Source Frameworks
 
-### The Big 4
+### The Big 5
 
 #### LlamaIndex
 The original RAG framework. Becoming more of a general LLM framework in other areas. Official packages include Python and Typescript.
 #### LangChain
 LLM framework with the largest community. Official packages include Python and Javascript. Unofficial packages include Go, Ruby, Java, Elixir.
 #### Haystack
-Production focused ML framework that pivoted towards LLMs. Well designed and thought out.
+Production focused ML framework that pivoted towards LLMs. Well designed and thought out. Available in Python.
 #### DSpy
-Framework focused on prompt optimization and better developer ergonomics.
+Framework focused on prompt optimization and better developer ergonomics. Available in Python.
+#### Semantic Kernel
+Microsoft project with a lot of traction in the C# community. Officially supports C#, Java, Python, Typescript.
 
 ### VectorDB Sponsored Frameworks
 
