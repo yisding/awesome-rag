@@ -84,7 +84,7 @@ Microsoft project with a lot of traction in the C# community. Officially support
 ### SBERT (Sentence Transformers)
 ### Jina.ai
 
-## Observability
+## Observability and Eval
 
 ### Arize
 ### Langsmith
@@ -92,6 +92,7 @@ Microsoft project with a lot of traction in the C# community. Officially support
 ### Truera
 ### AgentOps
 ### Ragas
+### Helicone
 
 ## Agent Focused Frameworks
 
