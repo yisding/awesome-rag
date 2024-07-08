@@ -86,13 +86,14 @@ Microsoft project with a lot of traction in the C# community. Officially support
 
 ## Observability and Eval
 
-### Arize
-### Langsmith
-### Langfuse
-### Truera
 ### AgentOps
-### Ragas
+### Arize
 ### Helicone
+### Langfuse
+### Langsmith
+### OpenLLMetry
+### Ragas
+### Truera
 
 ## Agent Focused Frameworks
 
