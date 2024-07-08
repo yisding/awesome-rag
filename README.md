@@ -90,6 +90,8 @@ Microsoft project with a lot of traction in the C# community. Officially support
 ### Langsmith
 ### Langfuse
 ### Truera
+### AgentOps
+### Ragas
 
 ## Agent Focused Frameworks
 
