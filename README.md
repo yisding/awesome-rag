@@ -94,6 +94,7 @@ Microsoft project with a lot of traction in the C# community. Officially support
 ### OpenLLMetry
 ### Ragas
 ### Truera
+### W&B Weave
 
 ## Agent Focused Frameworks
 
