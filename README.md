@@ -77,6 +77,7 @@ Microsoft project with a lot of traction in the C# community. Officially support
 ### Multion Retrieve
 ### RagFlow
 ### LLMSherpa
+### Marker
 
 ## Embeddings
 
