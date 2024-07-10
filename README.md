@@ -76,6 +76,7 @@ Microsoft project with a lot of traction in the C# community. Officially support
 ### Firecrawl
 ### Multion Retrieve
 ### RagFlow
+### LLMSherpa
 
 ## Embeddings
 
