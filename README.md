@@ -78,6 +78,7 @@ Microsoft project with a lot of traction in the C# community. Officially support
 ### RagFlow
 ### LLMSherpa
 ### Marker
+### ColPali https://blog.vespa.ai/retrieval-with-vision-language-models-colpali/
 
 ## Embeddings
 
