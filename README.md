@@ -80,6 +80,7 @@ Microsoft project with a lot of traction in the C# community. Officially support
 ### Marker
 ### ColPali https://blog.vespa.ai/retrieval-with-vision-language-models-colpali/
 ### PyMuPDF4LLM https://github.com/pymupdf/RAG
+### Deepdoctection https://github.com/deepdoctection/deepdoctection
 
 ## Embeddings
 
