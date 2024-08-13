@@ -82,6 +82,8 @@ Microsoft project with a lot of traction in the C# community. Officially support
 ### PyMuPDF4LLM https://github.com/pymupdf/RAG
 ### Deepdoctection https://github.com/deepdoctection/deepdoctection
 ### LLMWhisperer https://github.com/deepdoctection/deepdoctection
+### surya (OCR) https://github.com/VikParuchuri/surya
+### Tesseract (OCR)
 
 ## Embeddings
 
